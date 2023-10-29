@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RedTideRespiratory.github.io/static/css/main.0ca9a4c8.css",
+    "main.js": "/RedTideRespiratory.github.io/static/js/main.f4536fee.js",
+    "static/js/787.adf52486.chunk.js": "/RedTideRespiratory.github.io/static/js/787.adf52486.chunk.js",
+    "index.html": "/RedTideRespiratory.github.io/index.html",
+    "main.0ca9a4c8.css.map": "/RedTideRespiratory.github.io/static/css/main.0ca9a4c8.css.map",
+    "main.f4536fee.js.map": "/RedTideRespiratory.github.io/static/js/main.f4536fee.js.map",
+    "787.adf52486.chunk.js.map": "/RedTideRespiratory.github.io/static/js/787.adf52486.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ca9a4c8.css",
+    "static/js/main.f4536fee.js"
+  ]
+}
